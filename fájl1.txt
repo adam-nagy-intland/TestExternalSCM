@@ -91,3 +91,5 @@ change the file again for item #1470793
 webhook test #1006
 
 DEFAULT-NONE <-> set secret in Github
+
+edit #1006
